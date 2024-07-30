@@ -1,4 +1,3 @@
-# Harshith
 
 <div align="center">
   <h1 style="color: blue; font-size: 100px;">HARSHITH</h1>
