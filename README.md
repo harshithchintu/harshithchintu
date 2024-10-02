@@ -43,12 +43,6 @@ I am passionate about continuous learning and eager to apply emerging technologi
 
 ---
 
-## 🖼️ Favorite Meme
-
-![Meme](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137832563/original/076bb0e0a1e4735f37829d90a0113bc61dccdb7e/do-some-dank-memes-and-i-can-edit-some-funny-videos.png)
-
----
-
 ## 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshithsp)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshithchintu)
